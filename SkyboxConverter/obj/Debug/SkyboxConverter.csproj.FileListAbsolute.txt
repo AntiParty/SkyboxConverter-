@@ -1,0 +1,12 @@
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\bin\Debug\SkyboxConverter.exe.config
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\bin\Debug\SkyboxConverter.exe
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\bin\Debug\SkyboxConverter.pdb
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\obj\Debug\SkyboxConverter.csproj.AssemblyReference.cache
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\obj\Debug\SkyboxConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\obj\Debug\SkyboxConverter.Form1.resources
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\obj\Debug\SkyboxConverter.Properties.Resources.resources
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\obj\Debug\SkyboxConverter.csproj.GenerateResource.cache
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\obj\Debug\SkyboxConverter.csproj.CoreCompileInputs.cache
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\obj\Debug\SkyboxConverter.exe
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\obj\Debug\SkyboxConverter.pdb
+C:\Users\ty\source\repos\SkyboxConverter\SkyboxConverter\obj\Debug\SkyboxConverter.error.resources
